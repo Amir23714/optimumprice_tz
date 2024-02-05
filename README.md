@@ -23,7 +23,7 @@ cd optimumprice_tz/tz_optimum
 
 3. Install requirements
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 4. To run first website parser use:
