@@ -91,3 +91,12 @@ ROBOTSTXT_OBEY = True
 REQUEST_FINGERPRINTER_IMPLEMENTATION = "2.7"
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
+
+import logging
+
+# Configure logging
+logging.basicConfig(
+    filename='parser.log',
+    format='%(levelname)s: %(message)s',
+    level=logging.INFO
+)
