@@ -7,7 +7,27 @@ Scrapy Framework: Utilizes the Scrapy framework for efficient and modular web sc
 aiohttp and asyncio Integration: Incorporates aiohttp and asyncio to handle asynchronous requests, enhancing performance and speed.
 
 ## Instructions:
-1. Clone repositor
+1. Clone repository
 ```bash
 git clone https://github.com/Amir23714/optimumprice_tz.git
+```
+
+2. Navigate to the project folder
+```bash
+cd tz_optimum
+```
+
+3. Install requirements
+```bash
+pip install requirements.txt
+```
+
+4. To run first website parser use:
+```bash
+scrapy crawl site1_parser
+```
+
+5. To run second website parser use:
+```bash
+scrapy crawl site2_parser
 ```
