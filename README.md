@@ -18,7 +18,7 @@ git clone https://github.com/Amir23714/optimumprice_tz.git
 
 2. Navigate to the project folder
 ```bash
-cd tz_optimum
+cd optimumprice_tz/tz_optimum
 ```
 
 3. Install requirements
