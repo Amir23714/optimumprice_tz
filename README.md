@@ -6,7 +6,9 @@
 Scrapy Framework: Utilizes the Scrapy framework for efficient and modular web scraping.
 aiohttp and asyncio Integration: Incorporates aiohttp and asyncio to handle asynchronous requests, enhancing performance and speed.
 
-## All parsing results are presented in JSON-files named result_1.json and result_2.json respectively
+## All parsing results are presented in JSON-files are named:
+- result_1.json
+- result_2.json
 
 ## Instructions:
 1. Clone repository
